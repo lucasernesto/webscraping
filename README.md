@@ -1,5 +1,6 @@
 # COMANDOS A RODAR
 ## Iniciar projeto
+### pip install -r requirements.txt
 ### scrapy startproject <nome_do_projeto>
 ### cd <nome_do_projeto>
 ### scrapy genspider <nome_do_projeto> <url_de_busca>
